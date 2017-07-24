@@ -17,3 +17,6 @@
 - `docker volume create --name=db_data` first time only
 - `docker-compose -f docker-compose.dev.yml pull && docker-compose -f docker-compose.dev.yml up -d`
 - It will run on http://localhost:8080/
+
+
+test
